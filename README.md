@@ -1,2 +1,4 @@
-First Github Project .
-This repository contain files for my Git and GitHub assignment .
+# My Project
+Name : Fatima Malik
+Date : 6 Dec 2025
+Purpose : Learning Git
